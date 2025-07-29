@@ -71,7 +71,7 @@ concurrency:
 jobs:
   build:
     name: 
-    runs-on: macos-latest
+    runs-on: macOS 15
     permissions:
       contents: write
 
